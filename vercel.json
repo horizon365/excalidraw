@@ -68,6 +68,7 @@
   "outputDirectory": "excalidraw-app/build",
   "installCommand": "yarn install",
   "rewrites": [
+    { "source": "/mermaid-to-excalidraw/", "destination": "https://mermaid-to-excalidraw.whiteboardhq.com" },
     {
       "source": "/mermaid-to-excalidraw/:path*",
       "destination": "https://mermaid-to-excalidraw.whiteboardhq.com/:path*"
