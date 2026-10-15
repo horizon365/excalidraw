@@ -55,7 +55,7 @@ export default defineConfig(({ mode }) => {
     },
     plugins: [
       Sitemap({
-        hostname: "https://whiteboardhq.com",
+        hostname: "https://excalidraw.deepthink.ltd",
         outDir: "build",
         changefreq: "monthly",
         // its static in public folder

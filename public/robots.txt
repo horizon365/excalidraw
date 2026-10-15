@@ -10,4 +10,4 @@ Allow: /
 Allow: /sitemap.xml
 Disallow: /
 
-Sitemap: https://whiteboardhq.com/sitemap.xml
+Sitemap: https://excalidraw.deepthink.ltd/sitemap.xml
